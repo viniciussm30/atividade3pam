@@ -1,0 +1,18 @@
+{
+    "nome": "Vinícius de Souza Marinelli",
+    "rm": "12980",
+    "telefone": "(14) 997426821",
+    "endereco": "Avenida Bráz Flamino, nº 12",
+    "cidade": "Uru-SP"
+}
+
+{
+    "nome": "Guilherme Lobo",
+    "titulacao": "Bacharelo em Sistema de Informação",
+    "telefone": "(14) 00000-0000",
+    "endereco": "Rua Amazonas, 522",
+    "idade": 32,
+    "altura": 1.72,
+    // "status": true
+    "status": false
+}

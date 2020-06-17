@@ -1,0 +1,68 @@
+{
+    "veiculo": {
+        "marca": "BMW",
+        "modelo": "BMW Série 8 Coupé",
+        "anoFabricacao": "2018",
+        "cor": "Azul Barcelona"
+    },
+    "professor": {
+        "nome": "Guilherme Lobo",
+        "cidade": "Promissão",
+        "email": "guilherme.lobo@etec.sp.gov.br"
+    },
+    "cliente": {
+        "nome": "Bruna da Silva",
+        "cpf": "098.344.178-87",
+        "dataNascimento": "1998-01-12",
+        "endereco": "Rua Rodrigues Martins, 222",
+        "cidade": "Bauru"
+    },
+    "materia": {
+        "nome": "PAM II",
+        "caragaHoraria": 120,
+        "professor": "Guilherme Lobo"
+    },
+    "escola": {
+        "nome": "Profa Helcy Martins Aguiar",
+        "instuicao": "Centro Paula Souza",
+        "codigo": "062",
+        "cidade": "Cafelândia"
+    },
+    "produto": {
+        "nome": "Iphone 11 Pro Max",
+        "marca": "Apple",
+        "anoLancamento": "2019",
+        "cor": "Cinza-espacial",
+        "preco": "R$ 9599.00"
+    },
+    "funcionario": {
+        "nome": "Bruno dos Reis Rodrigues",
+        "salario": "R$ 10000",
+        "funcao": "Desenvolvedor de Sistemas",
+        "dataContratacao": "2007-09-20"
+    },
+    "equipamento": {
+        "nome": "Aperelho de Raio-X",
+        "descricao": "Determinar o tipo de fratura, danos e onde está localizada",
+        "dataCompra": "2016-04-20"
+    },
+    "cidade": {
+        "nome": "Bauru",
+        "prefeito": "Clodoaldo Gazzetta",
+        "ddd": 14,
+        "dataAniversario": "1 de agosto"
+    },
+    "venda": {
+        "dataVenda": "2020-03-20",
+        "valorTotal": 999.99,
+        "produtos": "Smart TV 40'' Polegadas - Promoção",
+        "frete": 0.00
+    },
+    "ordemServico": {
+        "numero": "0320",
+        "data": "2020-05-20",
+        "nome": "Vinícius",
+        "cargo": "Estudante"
+    }
+
+}

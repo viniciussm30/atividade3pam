@@ -1,0 +1,148 @@
+{
+    "curso": {
+        "nome": "Técnico em Desenvolvimento de Sistemas",
+        "duracao": "3 semestres",
+        "turma": "1 semestre de 2019",
+        "previsao conclusao": "2020 07 31",
+        "orientador": {
+            "nome": "Diego Lazaro",
+            "codigo": 8928,
+            "email": "diego.lazaro4@gmail.com",
+            "endereco": {
+                "rua": "Rua dos Bobos da Silva",
+                "numeor": 123,
+                "bairro": "Vila feliz",
+                "cidade": {
+                    "nome": "Cafelândia",
+                    "ufEstado": "SP"
+                }
+            }
+        },
+        "modulo": [{
+                "numero": "primeiro",
+                "materias": [{
+                        "nome": "Programação WEB I",
+                        "professor": {
+                            "nome": "Diego Lazaro",
+                            "codigo": 8928,
+                            "email": "diego.lazaro4@gmail.com",
+                            "endereco": {
+                                "rua": "Rua dos Bobos da Silva",
+                                "numero": 123,
+                                "bairro": "Vila feliz",
+                                "cidade": {
+                                    "nome": "Cafelândia",
+                                    "ufEstado": "SP"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "nome": "Banco de Dados I",
+                        "professor": {
+                            "nome": "Guilherme Lobo",
+                            "codigo": 7239,
+                            "email": "guilherme.lobo@etec.sp.gov.br",
+                            "endereco": {
+                                "rua": "Rua dos Bobos da Silva",
+                                "numero": 123,
+                                "bairro": "Vila feliz",
+                                "cidade": {
+                                    "nome": "Cafelândia",
+                                    "ufEstado": "SP"
+                                }
+                            }
+                        }
+                    }
+                ],
+                "alunos": [{
+                    "nome": "Gabriela da Silva Moraes",
+                    "rm": 87678,
+                    "emailInstitucional": "gabriela.moraes8@etec.sp.gov.br",
+                    "telefone": "(14) 998211-9900",
+                    "endereco": {
+                        "rua": "Rua dos Bobos da Silva",
+                        "numero": 123,
+                        "bairro": "Vila feliz",
+                        "cidade": {
+                            "nome": "Cafelândia",
+                            "ufEstado": "SP"
+                        }
+
+                    }
+                }, {
+                    "nome": "Guilherme Candido dos Santos",
+                    "rm": 98090,
+                    "emailInstitucional": "guilherme.santos988@etec.sp.gov.br",
+                    "telefone": "(14) 998670011",
+                    "endereco": {
+                        "rua": "Rua dos Bobos da Silva",
+                        "numero": 123,
+                        "bairro": "Vila feliz",
+                        "cidade": {
+                            "nome": "Cafelândia",
+                            "ufEstado": "SP"
+                        }
+
+                    }
+                }]
+            },
+            {
+                "numero": "segundo",
+                "materias": [{
+                        "nome": "Programação WEB II",
+                        "professor": {
+                            "nome": "Adriano Castro",
+                            "codigo": 7618,
+                            "email": "adriano.castro2@etec.sp.gov.br",
+                            "endereco": {
+                                "rua": "Rua dos Bobos da Silva",
+                                "numero": 123,
+                                "bairro": "Vila feliz",
+                                "cidade": {
+                                    "nome": "Cafelândia",
+                                    "ufEstado": "SP"
+                                }
+
+                            }
+                        }
+                    },
+                    {
+                        "nome": "Programação de Aplicativo Mobile I",
+                        "professor": {
+                            "nome": "Everton Silva",
+                            "codigo": 8900,
+                            "email": "everton.silva221@etec.sp.gov.br",
+                            "endereco": {
+                                "rua": "Rua dos Bobos da Silva",
+                                "numero": 123,
+                                "bairro": "Vila feliz",
+                                "cidade": {
+                                    "nome": "Cafelândia",
+                                    "ufEstado": "SP"
+                                }
+
+                            }
+                        }
+                    }
+                ],
+                "alunos": [{
+                    "nome": "Rebeca Bueno",
+                    "rm": 76285,
+                    "emailInstitucional": "rebeca.bueno4@etec.sp.gov.br",
+                    "telefone": "(14) 996452789",
+                    "endereco": {
+                        "rua": "Rua dos Bobos da Silva",
+                        "numero": 123,
+                        "bairro": "Vila feliz",
+                        "cidade": {
+                            "nome": "Cafelândia",
+                            "ufEstado": "SP"
+                        }
+
+                    }
+                }]
+            }
+        ]
+    }
+}
