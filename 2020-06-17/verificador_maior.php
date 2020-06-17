@@ -1,5 +1,5 @@
 <?php
-    $numero1 = $_REQUEST['numero1']
+    $numero1 = $_REQUEST['numero1'];
     $numero2 = $_REQUEST['numero2'];
 
     $maior= "";
@@ -7,7 +7,7 @@
     $msg = "";
 
     if($numero1 > $numero2){
-        $msg = "maior é $numero1"
+        $msg = "maior é $numero1";
         $maior = $numero1;
         $menor= $numero2;
     }elseif($numero1 == $numero2){
