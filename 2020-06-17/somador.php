@@ -9,7 +9,7 @@
     $retornoJson["operacao"] = "soma";
     $retornoJson["numero1"] = $numero1;
     $retornoJson["numero2"] = $numero2;
-    $$retornoJson["soma"] = $soma;
+    $retornoJson["soma"] = $soma;
 
     echo json_encode($retornoJson);
 
