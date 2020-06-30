@@ -1,12 +1,3 @@
-<h1>Par ou ímpar</h1>
-<form action="#">
-    <div>
-        <label for="">Número</label>
-        <input type="text" name="num" id="num">
-    </div>
-    <br>
-    <button>Resultado</button>
-</form>
 <?php
 
 $numero = $_REQUEST['num'];
